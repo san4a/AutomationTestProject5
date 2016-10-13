@@ -1,4 +1,4 @@
-@ST_770
+@ST_776
 Feature: Ten Scenarios
 
 Background: back
@@ -6,52 +6,52 @@ Background: back
 Given 0
 And 0
 
-@SC_6400
+@SC_6455
 Scenario: 1
 When 1
 And 1
 
-@SC_6401
+@SC_6456
 Scenario: 2
 When 2
 And 2
 
-@SC_6402
+@SC_6457
 Scenario: 3
 When 3
 And 3
 
-@SC_6403
+@SC_6458
 Scenario: 4
 When 4
 And 4
 
-@SC_6404
+@SC_6459
 Scenario: 5
 When 5
 And 5
 
-@SC_6405
+@SC_6460
 Scenario: 6
 When 6
 And 6
 
-@SC_6406
+@SC_6461
 Scenario: 7
 When 7
 And 7
 
-@SC_6407
+@SC_6462
 Scenario: 8
 When 8
 And 8
 
-@SC_6408
+@SC_6463
 Scenario: 9
 When 9
 And 9
 
-@SC_6409
+@SC_6464
 Scenario: 10
 When 10
 And 10
